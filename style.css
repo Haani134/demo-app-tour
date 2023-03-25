@@ -113,3 +113,20 @@ text-align: center;
 .home h3 {
     padding-bottom: 3rem;
 }
+/* section Locations */
+.Location {
+background-image: linear-gradient(rgba(0, 0, 0, 0.781), transparent),
+url('./images/new-york-page.png');
+min-height: 90vh;
+background-position: center;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 5rem;
+text-align: center;
+}
+.Location h2 {
+    padding-bottom: 2rem;
+}
